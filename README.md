@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://github.com/ivawkin">Pentester</a>, <a href="https://www.linkedin.com/in/ivojakovlevs/">Cybersecurity Professional</a>, <a 
+<h1>Hi, I'm Ivo! <br/><a href="https://github.com/ivawkin">Pentester</a>, <a href="https://www.linkedin.com/in/ivojakovlevs/">Cybersecurity Professional</a>, <a 
 
 <h2>👨‍💻 Penetration Testing Project - Capture the Flags (CTF) :</h2>
 
